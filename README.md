@@ -7,4 +7,4 @@ Start developing React JS and flux.
 
 Build the project using `gulp`
 
-Once installed just run `gulp watch`
+Once installed just run `gulp watch` and point the browser to http://localhost:8000 ...
